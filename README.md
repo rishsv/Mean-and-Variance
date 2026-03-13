@@ -5,7 +5,6 @@ To find mean and variance of arrival of objects from the feeder using probabilit
 # Software required : 
 
 Python and Visual components tool
-
 # Theory:
 The expectation or the mean of a discrete random variable is a weighted average of all possible
 values of the random variable. The weights are the probabilities associated with the corresponding values. 
